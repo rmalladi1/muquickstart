@@ -8,3 +8,5 @@ service:
   pathPatterns:
   - /*
   pipeline:
+  source:
+  repo:rmalladi1/muquickstart
