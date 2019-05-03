@@ -1,7 +1,8 @@
 environments:
 - name: acceptance
+- name: production
 service:
-  name: extension
+  name: muquickstart
   port: 80
   healthEndpoint: /
   pathPatterns:
